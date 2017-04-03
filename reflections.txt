@@ -12,6 +12,6 @@
 Here is what I have learnt so far -
 1. The strcture of html -  Three major parts <html></html>, <head></head>, <body></body>
 2. The tree to html - how to use tag in each element.
-3. How to search for the right tag in MDN
+3. How to search for the right tag in google, MDN and http://jsbin.com/
 4. How to post an image <img src="" alt="">
 5. How to redirect a link <a href="" >content</a>
